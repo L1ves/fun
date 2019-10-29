@@ -1,0 +1,4 @@
+1)You can read/write CSV and Excel files, format Excel cells, prepare charts
+2)and perform calculations on data with formulae
+3)The recipes in this chapter will focus on the Python modules that help us performing the preceding operations on CSV and Excel sheets
+4)Specifically, we will focus on the following Python modules in this chapter
